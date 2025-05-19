@@ -1,0 +1,13 @@
+{
+  "name": "code-runner-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dockerode": "^3.3.5",
+    "express": "^4.21.2"
+  }
+}
